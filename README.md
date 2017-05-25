@@ -2,16 +2,16 @@
 
 ## Websites
 
-rednoise.org/rita
-thereadersproject.org (vhost)
+- rednoise.org/rita
+- thereadersproject.org (vhost)
 
 - rednoise.org/literalart
 - rednoise.org/beacon
-- rrednoise.org/binder
-- rrednoise.org/nllf
-- rrednoise.org/programmatology
-- rrednoise.org/shadoof
-- rrednoise.org/wells
+- rednoise.org/binder
+- rednoise.org/nllf
+- rednoise.org/programmatology
+- rednoise.org/shadoof
+- rednoise.org/wells
 
 ## Virtual/Sub Domains
 

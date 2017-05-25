@@ -7,44 +7,44 @@ thereadersproject.org (vhost)
 
 - rednoise.org/literalart
 - rednoise.org/beacon
-rednoise.org/binder
-rednoise.org/nllf
-rednoise.org/programmatology
-rednoise.org/shadoof
-rednoise.org/wells
+- rrednoise.org/binder
+- rrednoise.org/nllf
+- rrednoise.org/programmatology
+- rrednoise.org/shadoof
+- rrednoise.org/wells
 
 ## Virtual/Sub Domains
 
 ServerName literalart.net
 ServerAlias www.literalart.net
-
-ServerName beacon.literalart.net
-ServerAlias activebeacon.literalart.net
-ServerAlias passivebeacon.literalart.net
-
+<br><br>
+ServerName beacon.literalart.net<br>
+ServerAlias activebeacon.literalart.net<br>
+ServerAlias passivebeacon.literalart.net<br>
+<br><br>
 ServerName i2.literalart.net
-ServerAlias interrupt2.literalart.net
-
-ServerName wmd.literalart.net
-
-ServerName nllf.net
-ServerAlias www.nllf.net
-
-ServerName programmatology.shadoof.net
-ServerAlias wdm.shadoof.net
-ServerAlias dla.shadoof.net
-
-ServerName shadoof.net
-ServerAlias www.shadoof.net
-
-ServerName binder.shadoof.net
-ServerAlias portfolio.shadoof.net
-
-ServerName wells.shadoof.net
-ServerAlias ws.shadoof.net
-ServerAlias wellsweep.shadoof.net
-
-ServerName writing3d.net
+ServerAlias interrupt2.literalart.net<br>
+<br><br>
+ServerName wmd.literalart.net<br>
+<br><br>
+ServerName nllf.net<br>
+ServerAlias www.nllf.net<br>
+<br><br>
+ServerName programmatology.shadoof.net<br>
+ServerAlias wdm.shadoof.net<br>
+ServerAlias dla.shadoof.net<br>
+<br><br>
+ServerName shadoof.net<br>
+ServerAlias www.shadoof.net<br>
+<br><br>
+ServerName binder.shadoof.net<br>
+ServerAlias portfolio.shadoof.net<br>
+<br><br>
+ServerName wells.shadoof.net<br>
+ServerAlias ws.shadoof.net<br>
+ServerAlias wellsweep.shadoof.net<br>
+<br><br>
+ServerName writing3d.net<br>
 
 ## Webserver Alias'
 

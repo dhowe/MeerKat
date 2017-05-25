@@ -5,8 +5,8 @@
 rednoise.org/rita
 thereadersproject.org (vhost)
 
-rednoise.org/literalart
-rednoise.org/beacon
+- rednoise.org/literalart
+- rednoise.org/beacon
 rednoise.org/binder
 rednoise.org/nllf
 rednoise.org/programmatology
